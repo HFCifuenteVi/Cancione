@@ -1,0 +1,42 @@
+.titulo1{
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Kolker Brush', cursive;
+}
+.titulo2{
+    font-family: 'Rubik Bubbles', cursive;
+    font-size: 1rem;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.table{
+    border-collapse: collapse;
+}
+.table td{
+    border: 1px solid;
+    text-align: center;
+}
+table th:hover{
+    color:darkcyan;
+    background-color: dimgray;
+}
+table tr{
+    color:white;
+    background-color:dimgray;
+    font-family: 'Rubik Bubbles', cursive;
+}
+caption{
+    font-family: 'Kolker Brush', cursive;
+}
+.table td:hover{
+    color:darkcyan;
+    background-color: aliceblue;
+}
